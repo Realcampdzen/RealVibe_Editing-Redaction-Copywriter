@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1380" viewBox="0 0 1200 1380" role="img" aria-labelledby="title description">
+<title id="title">Восемь мультфильмов из карьеры Джеффри Катценберга</title>
+<desc id="description">Disney: Катценберг возглавлял Walt Disney Studios в 1984–1994 годах. Русалочка, 1989; Красавица и чудовище, 1991; Аладдин, 1992; Король Лев, 1994. DreamWorks: Катценберг — сооснователь студии. Шрек, 2001; Мадагаскар, 2005; Кунг-фу Панда, 2008; Как приручить дракона, 2010.</desc>
+<rect width="1200" height="1380" fill="#F4F4F0"/>
+<text x="76" y="76" font-family="DejaVu Sans, sans-serif" font-size="34" font-weight="700" fill="#355CDF">ДЖЕФФРИ КАТЦЕНБЕРГ</text>
+<text x="76" y="166" font-family="DejaVu Sans, sans-serif" font-size="76" font-weight="700" fill="#182231">Восемь знакомых</text>
+<text x="76" y="250" font-family="DejaVu Sans, sans-serif" font-size="76" font-weight="700" fill="#182231">мультфильмов</text>
+<rect x="76" y="308" width="1048" height="490" rx="24" fill="#FFFFFF" stroke="#DCE1E7" stroke-width="2"/>
+<text x="108" y="375" font-family="DejaVu Sans, sans-serif" font-size="52" font-weight="700" fill="#182231">Disney</text>
+<text x="108" y="422" font-family="DejaVu Sans, sans-serif" font-size="34" font-weight="400" fill="#526173">1984–1994 · глава Walt Disney Studios</text>
+<rect x="108" y="453" width="984" height="2" rx="0" fill="#DCE1E7"/>
+<text x="108" y="523" font-family="DejaVu Sans, sans-serif" font-size="44" font-weight="700" fill="#355CDF">1989</text>
+<text x="270" y="523" font-family="DejaVu Sans, sans-serif" font-size="48" font-weight="400" fill="#182231">Русалочка</text>
+<rect x="108" y="549" width="984" height="1" rx="0" fill="#E7EBEF"/>
+<text x="108" y="599" font-family="DejaVu Sans, sans-serif" font-size="44" font-weight="700" fill="#355CDF">1991</text>
+<text x="270" y="599" font-family="DejaVu Sans, sans-serif" font-size="48" font-weight="400" fill="#182231">Красавица и чудовище</text>
+<rect x="108" y="625" width="984" height="1" rx="0" fill="#E7EBEF"/>
+<text x="108" y="675" font-family="DejaVu Sans, sans-serif" font-size="44" font-weight="700" fill="#355CDF">1992</text>
+<text x="270" y="675" font-family="DejaVu Sans, sans-serif" font-size="48" font-weight="400" fill="#182231">Аладдин</text>
+<rect x="108" y="701" width="984" height="1" rx="0" fill="#E7EBEF"/>
+<text x="108" y="751" font-family="DejaVu Sans, sans-serif" font-size="44" font-weight="700" fill="#355CDF">1994</text>
+<text x="270" y="751" font-family="DejaVu Sans, sans-serif" font-size="48" font-weight="400" fill="#182231">Король Лев</text>
+<rect x="76" y="838" width="1048" height="490" rx="24" fill="#FFFFFF" stroke="#DCE1E7" stroke-width="2"/>
+<text x="108" y="905" font-family="DejaVu Sans, sans-serif" font-size="52" font-weight="700" fill="#182231">DreamWorks</text>
+<text x="108" y="952" font-family="DejaVu Sans, sans-serif" font-size="34" font-weight="400" fill="#526173">Сооснователь студии</text>
+<rect x="108" y="983" width="984" height="2" rx="0" fill="#DCE1E7"/>
+<text x="108" y="1053" font-family="DejaVu Sans, sans-serif" font-size="44" font-weight="700" fill="#355CDF">2001</text>
+<text x="270" y="1053" font-family="DejaVu Sans, sans-serif" font-size="48" font-weight="400" fill="#182231">Шрек</text>
+<rect x="108" y="1079" width="984" height="1" rx="0" fill="#E7EBEF"/>
+<text x="108" y="1129" font-family="DejaVu Sans, sans-serif" font-size="44" font-weight="700" fill="#355CDF">2005</text>
+<text x="270" y="1129" font-family="DejaVu Sans, sans-serif" font-size="48" font-weight="400" fill="#182231">Мадагаскар</text>
+<rect x="108" y="1155" width="984" height="1" rx="0" fill="#E7EBEF"/>
+<text x="108" y="1205" font-family="DejaVu Sans, sans-serif" font-size="44" font-weight="700" fill="#355CDF">2008</text>
+<text x="270" y="1205" font-family="DejaVu Sans, sans-serif" font-size="48" font-weight="400" fill="#182231">Кунг-фу Панда</text>
+<rect x="108" y="1231" width="984" height="1" rx="0" fill="#E7EBEF"/>
+<text x="108" y="1281" font-family="DejaVu Sans, sans-serif" font-size="44" font-weight="700" fill="#355CDF">2010</text>
+<text x="270" y="1281" font-family="DejaVu Sans, sans-serif" font-size="48" font-weight="400" fill="#182231">Как приручить дракона</text>
+</svg>
