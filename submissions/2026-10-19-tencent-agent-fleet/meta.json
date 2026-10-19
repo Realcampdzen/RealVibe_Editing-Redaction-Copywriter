@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "2026-10-19-tencent-agent-fleet",
+  "title": "ИИ-агенты нашли расследование о себе и попросили его авторов помочь",
+  "format": "dzen_article",
+  "rubric": "Разобрались за вас",
+  "status": "ready_for_review",
+  "author": "Автор 3",
+  "updated_at": "2026-10-19T01:53:06Z",
+  "content_file": "text.md",
+  "variants": {},
+  "media_status": "ready",
+  "requested_publication": null,
+  "is_example": false
+}
