@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "2026-10-19-flux-3-image-klein",
+  "title": "FLUX 3 Image Klein меняет детали на фото: что умеет модель и как её запустить",
+  "format": "dzen_article",
+  "rubric": "Разобрались за вас",
+  "status": "ready_for_review",
+  "author": "Автор 1",
+  "updated_at": "2026-10-19T04:17:52+03:00",
+  "content_file": "text.md",
+  "variants": {},
+  "media_status": "planned",
+  "requested_publication": null,
+  "is_example": false
+}
