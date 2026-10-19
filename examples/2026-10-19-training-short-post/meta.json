@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "2026-10-19-training-short-post",
+  "title": "Как поручить ИИ одну правку и проверить результат",
+  "format": "social_post",
+  "rubric": "Практика работы с ИИ",
+  "status": "ready_for_review",
+  "author": "Редакция RealVibe — учебный пример",
+  "updated_at": "2026-10-19T12:00:00+03:00",
+  "content_file": "text.md",
+  "variants": {},
+  "media_status": "not_required",
+  "requested_publication": null,
+  "is_example": true
+}

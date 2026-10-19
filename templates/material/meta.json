@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "YYYY-MM-DD-topic",
+  "title": "ЗАПОЛНИТЬ: выбранный заголовок",
+  "format": "dzen_article",
+  "rubric": "ЗАПОЛНИТЬ: рубрика",
+  "status": "draft",
+  "author": "ЗАПОЛНИТЬ: публичное имя",
+  "updated_at": "2026-10-19T12:00:00+03:00",
+  "content_file": "text.md",
+  "variants": {},
+  "media_status": "planned",
+  "requested_publication": null,
+  "is_example": false
+}
