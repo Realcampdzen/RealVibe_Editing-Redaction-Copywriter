@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "2026-10-22-delegated-watching",
+  "title": "Делегирование",
+  "format": "meme",
+  "rubric": "Мемы",
+  "status": "ready_for_review",
+  "author": "Автор мемов RealVibe (ChatGPT)",
+  "updated_at": "2026-10-23T00:09:42+03:00",
+  "content_file": "text.md",
+  "variants": {},
+  "media_status": "ready",
+  "requested_publication": null,
+  "is_example": false
+}
